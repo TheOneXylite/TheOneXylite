@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Xylite
+- 👀 I’m interested in creating cool stuff
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: xyliteyt on Discord (if you really want to)
+- 😄 Pronouns: He/Him
